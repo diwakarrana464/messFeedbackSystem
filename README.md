@@ -1,28 +1,53 @@
-# Mess Feedback System #
-## Goal About this Project ##
-This repository contains mess feedback project at NITT. This is project under Computer Application Deparment.
 
-# Note About Report of this project #
-please download this in your system and then open. don't open it directly it will show error
+# Mess Feedback System
 
-# Description About project #
-1) purpose
-2) functionality
-3) goal
-# Technology used in this project #
-1) java language SDK 8 plus
-2) spring boot framework
-3) Spring Resp API
-4) Mongo DB
-5) HTML , CSS , java scrip and boot strap
-# How to contrubut in this project    Contributing guideline #
-1) setup environment
-2) clone project
-3) contrubute and push in brach and ask for merge
-# contack Information for your reach #
-1) linked In
-2) gmail
-# project Structure # 
-what package keeps what
-# Model and ER Diagram 
-1) in report  they are please go through
+This application provides the way to monitor food quality of different mess at 
+NIT Trichy. Students can get registered in this application. After that they can 
+provide feedback of food at particular date and time. These feedbacks can be 
+monitored by administrative representative.
+
+
+
+
+## Different Users of this application
+
+### Students
+### Service Provider
+### Admin
+
+## Goal and Functionality
+
+Goal is to monitor food quality precisely. We need to omit traditional way of feedback like monthly. On bases of received data we can arrange a meeting with service providers and instruct them for flaws.
+
+## Technology used in this project
+    1) Java SDK
+    2) J2EE
+    3) Spring Boot Framework
+    4) Spring Rest
+    5) HTML CSS Java Script
+## Model and ER Diagram
+I have included these two things in project_report.pdf file. Please download that file and go through for better understanding.
+
+## Project Structure
+![project_structure](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/eebc2602-b144-4612-9384-971ed4809d90)
+
+## Home Page
+![index](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/1035b145-896a-45bb-8434-81d88f939ad4)
+
+## Admin Login
+![adminlogin](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/c0f34ef2-b591-4a4c-a7e3-1a9de62a511d)
+
+## Student Login
+![studentlogin](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/75f9e3ed-085e-450f-a377-14cfd3e9a88c)
+
+## Service Provider Login
+![serviceproviderlogin](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/941532ae-fd68-414f-b69a-2dba1220e17a)
+
+## Feedback Form
+![feedback](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/bc2caef7-5fc1-436e-93fa-3ec0c7969271)
+
+
+## Author
+
+- [@diwakarrana464](https://www.github.com/diwakarrana464)
+
