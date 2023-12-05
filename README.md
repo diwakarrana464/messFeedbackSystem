@@ -26,7 +26,7 @@ Goal is to monitor food quality precisely. We need to omit traditional way of fe
     4) Spring Rest
     5) HTML CSS Java Script
 ## Model and ER Diagram
-I have included these two things in project_report.pdf file. Please download that file and go through for better understanding.
+![erd](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/0aa0eda6-f737-40ed-be3d-19aa8964047c)
 
 ## Project Structure
 ![project_structure](https://github.com/diwakarrana464/messFeedbackSystem/assets/37569837/eebc2602-b144-4612-9384-971ed4809d90)
